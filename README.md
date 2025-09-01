@@ -1,16 +1,27 @@
 ## Hi there 👋
+<!-- header: text sigil + lightweight svg animation -->
+![sigil](sigil.svg)
 
-<!--
-**aamosm/aamosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+about/
+- a‑level student building on the web
+- java‑first brain; html/css/js for the look & feel
+- python = school grind (do what must be done)
 
-Here are some ideas to get you started:
+now/
+- learning: advanced java + modern web tooling
+- interests: ui/ux, layout systems, coding challenges
+- goal: make this profile less sterile over time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+workbench/
+- web design (typography, grids, motion)
+- java (mini toys, cli tools, small engines)
+- notes (sketches, fragments, experiments)
+
+changelog/
+- [wip] scaffolding this space
+- [soon] live ui/ux sandboxes
+- [soon] java animation demos (text + svg)
+
+contact/
+- open an issue here if something breaks
+
