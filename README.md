@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- header: text sigil + lightweight svg animation -->
-![sigil](sigil.svg)
+![sigil](art/sigil.svg)
 
 about/
 - a‑level student building on the web
