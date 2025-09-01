@@ -17,11 +17,5 @@ workbench/
 - java (mini toys, cli tools, small engines)
 - notes (sketches, fragments, experiments)
 
-changelog/
-- [wip] scaffolding this space
-- [soon] live ui/ux sandboxes
-- [soon] java animation demos (text + svg)
-
 contact/
 - open an issue here if something breaks
-v
