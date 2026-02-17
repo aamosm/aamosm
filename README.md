@@ -3,9 +3,7 @@
 
 
 about/
-- a‑level student building on the web
-- java‑first brain; html/css/js for the look & feel
-- python = school grind (do what must be done)
+- a‑level student
 
 now/
 - learning: advanced java + modern web tooling
@@ -16,6 +14,3 @@ workbench/
 - web design (typography, grids, motion)
 - java (mini toys, cli tools, small engines)
 - notes (sketches, fragments, experiments)
-
-contact/
-- open an issue here if something breaks
